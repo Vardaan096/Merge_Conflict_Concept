@@ -1,0 +1,6 @@
+git log --merge
+git checkout
+git diff
+git reset --mixed
+git reset
+git merge --abort
